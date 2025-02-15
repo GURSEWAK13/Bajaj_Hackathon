@@ -1,4 +1,5 @@
 import React from "react"
+// import ExerciseDetector from "./componets/detector.jsx"
 import ExerciseDetector from "./componets/detector.jsx"
 function App() {
   
